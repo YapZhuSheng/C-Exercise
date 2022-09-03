@@ -15,3 +15,9 @@ Write a C Program which prints out the following:
  Write a C Program which prints out the following:
 
 ![](https://github.com/YapZhuSheng/C-Exercise/blob/main/Images/exercise3.png?raw=true)
+
+Exercise 4
+Write a C Program which prints out the following:
+
+![](https://github.com/YapZhuSheng/C-Exercise/blob/main/Images/exercise4.png?raw=true)
+
