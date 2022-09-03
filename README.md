@@ -8,10 +8,7 @@ Write a C program which prints out the following:
         
 Exercise 2:
 Write a C Program which prints out the follwing:
-     *
-    ***
-   *****
-  *******
- *********
+
+![](https://github.com/YapZhuSheng/C-Exercise/blob/main/Images/triangle.png?raw=true)
  
  
