@@ -1,4 +1,4 @@
-# C-Exercise
+# C Exercise
 C Language Exercises &amp; Answers
 
 Exercise 1:
